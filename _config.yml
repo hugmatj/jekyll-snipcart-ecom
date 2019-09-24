@@ -21,7 +21,7 @@
 title: Jekyll Snipcart E-commerce
 description: >- # this means to ignore newlines until "baseurl:"
   This E-commerce is powered by Jekyll and Snipcart.
-baseurl: /jekyll-snipcart-ecom # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
