@@ -13,14 +13,15 @@
 ## 2 branches available:
 
 1. master
-   Bundled with 2.0.2
-   baseurl: /jekyll-snipcart-ecom
-   [site built with master is published at:](https://chrek.github.io/jekyll-snipcart-ecom/)
+   - Bundled with 2.0.2
+   - Baseurl: /jekyll-snipcart-ecom
+   - Site built with master is published at: [github.io](https://chrek.github.io/jekyll-snipcart-ecom/)
 
 2. gh-pages
-   Bundled with 2.0.1
-   baseurl: ""
-   [site built with gh-pages is published at:](https://jekyll-snipcart-ecom.netlify.com/#/)
+   - Bundled with 2.0.1
+   - Baseurl: ""
+   - Site built with gh-pages is published at: [netlify.com](https://jekyll-snipcart-ecom.netlify.com/#/)
+   - Status:
    [![Netlify Status](https://api.netlify.com/api/v1/badges/a27e796d-f8c0-4a3d-90cd-2e6b42851612/deploy-status)](https://app.netlify.com/sites/jekyll-snipcart-ecom/deploys)
 
 ## Testing locally
